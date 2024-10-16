@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"ios":{"default":{"projectId":"palm-book","appId":"1:869265678985:ios:1397f749f2ea874d3edc58","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"palm-book","configurations":{"ios":"1:869265678985:ios:1397f749f2ea874d3edc58"}}}}}}
